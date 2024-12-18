@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="false" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\0cf9231f.mp3"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="21000" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+  <customProperties>
+    <property key="ttsObject" value="ewogInRleHQiOiAiNy4gRW5nYWdlIHdpdGggWW91ciBCYWNrZXJzIFRocm91Z2hvdXQgeW91ciBjYW1wYWlnbiwgbWFrZSBzdXJlIHRvIGVuZ2FnZSB3aXRoIHlvdXIgYmFja2Vycy4gS2VlcCB0aGVtIHVwZGF0ZWQgd2l0aCBwcm9ncmVzcyBhbmQgbWlsZXN0b25lcy4gUmVzcG9uZCB0byBxdWVzdGlvbnMgb3IgY29tbWVudHMgYW5kIHNob3cgeW91ciBncmF0aXR1ZGUuIFRyYW5zcGFyZW5jeSBpcyBrZXkgdG8gbWFpbnRhaW5pbmcgdHJ1c3QgYW5kIGV4Y2l0ZW1lbnQgdGhyb3VnaG91dCB0aGUgcHJvY2Vzcy4gVGhlIG1vcmUgeW91IGludm9sdmUgeW91ciBzdXBwb3J0ZXJzLCB0aGUgbW9yZSBpbnZlc3RlZCB0aGV54oCZbGwgZmVlbCBpbiB5b3VyIHN1Y2Nlc3MuIiwKICJ2b2ljZUlkIjogImVuLVVTLU5ldXJhbDItSiIsCiAibGFuZ3VhZ2VDb2RlIjogImVuLVVTIiwKICJzeW50aGVzaXplcklkIjogImdvb2dsZSIsCiAiaXNUZXh0UlRMIjogZmFsc2UsCiAibWFya3VwVHlwZSI6ICJQbGFpblRleHQiCn0K"/>
+  </customProperties>
+
+</mediaClip>

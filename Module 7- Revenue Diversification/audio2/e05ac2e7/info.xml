@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mediaClip denoised="false" endTrimDuration="0" startTrimDuration="0" version="1">
+
+  <files>
+    <file id="1" path="..\files\fcda7236.mp3"/>
+  </files>
+
+  <dataChunks>
+    <fileChunk fileId="1">
+      <range duration="24288" startTime="0"/>
+    </fileChunk>
+  </dataChunks>
+
+  <customProperties>
+    <property key="ttsObject" value="ewogInRleHQiOiAiNC4gU2V0IGEgUmVhbGlzdGljIEZ1bmRpbmcgVGFyZ2V0IEJlIHN0cmF0ZWdpYyBhYm91dCBob3cgbXVjaCBtb25leSB5b3UgbmVlZCB0byByYWlzZS4gTWFrZSBzdXJlIHlvdXIgdGFyZ2V0IGlzIGFjaGlldmFibGUgYnV0IGFsc28gZW5vdWdoIHRvIGNvdmVyIHlvdXIgY29zdHMgYW5kIGhlbHAgeW91IHJlYWNoIHlvdXIgZ29hbHMuIFBsYXRmb3JtcyBsaWtlIEtpY2tzdGFydGVyIHVzZSBhbiDigJxhbGwtb3Itbm90aGluZ+KAnSBtb2RlbCwgd2hlcmUgaWYgeW91IGRvbuKAmXQgcmVhY2ggeW91ciBmdW5kaW5nIGdvYWwsIHlvdSBkb27igJl0IGdldCBhbnkgb2YgdGhlIGNvbnRyaWJ1dGlvbnMuIFNvLCBzZXQgYSBnb2FsIHRoYXTigJlzIHJlYWxpc3RpYyBidXQgYWxzbyBjaGFsbGVuZ2VzIHlvdSB0byBwdXNoIGZvciB5b3VyIGZ1bGwgcG90ZW50aWFsLiIsCiAidm9pY2VJZCI6ICJlbi1VUy1OZXVyYWwyLUoiLAogImxhbmd1YWdlQ29kZSI6ICJlbi1VUyIsCiAic3ludGhlc2l6ZXJJZCI6ICJnb29nbGUiLAogImlzVGV4dFJUTCI6IGZhbHNlLAogIm1hcmt1cFR5cGUiOiAiUGxhaW5UZXh0Igp9Cg=="/>
+  </customProperties>
+
+</mediaClip>
